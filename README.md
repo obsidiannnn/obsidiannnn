@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <kbd>
     <img src="188493.gif" width="100%" alt="Psycho Obito Banner" width=200%/>
   </kbd>

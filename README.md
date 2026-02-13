@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-    <img src="188493.gif" width="100%" alt="Psycho Obito Banner" width=100%/>
+    <img src="188493.gif" width="100%" alt="Psycho Obito Banner" width=200%/>
   </kbd>
 </div>
 <div align="center">

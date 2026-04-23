@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=36&duration=2500&pause=1000&color=FFFFFF;FF0000&center=true&vCenter=true&width=760&lines=I+Am+Aditya+Chauhan;Obsidiannnn" alt="typing" /><img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
 </div>
 
-
+<br>
 <br>
 
 
